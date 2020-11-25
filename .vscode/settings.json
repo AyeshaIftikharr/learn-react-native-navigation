@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "editor.rulers": [
+      100
+    ],
+    "editor.showFoldingControls": "always",
+    "editor.folding": true,
+    "editor.foldingStrategy": "indentation",
+    // "[javascript]": {
+    //   "editor.formatOnSave": true // deprecated use following
+    // },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      // "source.fixAll": true, // for all above one just for eslint
+    },
+  }
